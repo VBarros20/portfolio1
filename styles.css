@@ -1,0 +1,159 @@
+
+.container {
+  width: 800px;
+  height: 610px;
+  margin:  auto;
+  background: rgb(49, 46, 46);
+}
+
+header {
+  width: 800px;
+  height: 60px;
+  background-color: #6b6b6b;
+  padding: 20px 0;
+  margin-bottom: 5px;
+  
+}
+
+h1, p {
+  text-align: center;
+  color: rgb(252, 252, 252);
+  font-size: 24px;
+  font-family: monospace;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+footer {
+  width: 800px;
+  height: 60px;
+  background-color: #6b6b6b;
+  padding: 20px 0;
+  clear: both;
+}
+
+footer h1,br{
+  font-size: 11px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+article {
+  width: 575px;
+  height: 300px;
+  background-color: rgb(192, 192, 192);
+  float: left;
+  padding: px;
+  margin-left: 5px;
+}
+
+article p {
+  color: black;
+  font-size: 24px;
+  font-family: monospace;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 4px;
+}
+
+
+article h1 {
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: monospace;
+  text-transform:unset;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 0px;
+}
+
+article b{
+  font-size: 16px;
+}
+
+article h2 {
+  font-size: 14px;
+  text-align: center;
+  font-family: monospace;
+
+
+}
+
+article ol {
+  font-family: monospace;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top:  30px;
+  font-size: 14px;
+}
+
+
+aside {
+  width: 210px;
+  height: 300px;
+  background-color: #f3ff48;
+  float: left;
+  margin-left: 5px;  
+  color: rgb(0, 0, 0);
+}
+
+aside ol {
+
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+aside p{
+  
+  color: rgb(0, 0, 0);
+  font-size: 28px;
+  font-family: monospace;
+  text-transform: uppercase
+}
+
+.content {
+  width: 800px;
+  overflow: auto;
+  margin-bottom: 5px;
+}
+
+.menu ul li {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(7972da);
+  display: inline;
+  color: rgb(255, 255, 255);
+  margin-left: 25px;
+  font-family: monospace;
+}
+
+.clearfix {
+  clear: both; /* fazendo um reset na nossa flutuação */
+}
+
+
+article div {
+  width: 120px;
+  height: 80px;
+  background-color: rgb(156, 97, 136);
+  margin-left: 7px;
+  margin-top: 10px;
+  float: left;
+  position: relative;
+
+}
+
+ .bg-video1 {
+  width: 120px;
+  height: 80px;
+  background-color: rgb(77, 255, 7);
+  margin-left: 7px;
+  margin-top: 10px;
+  position: relative;
+  float: left;
+
+ }
+
